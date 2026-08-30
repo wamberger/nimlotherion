@@ -23,7 +23,7 @@ authors = [
 maintainers = [
   {name = "Alan Wamberger", email = "awamberger@proton.me"}
 ]
-description = "Lightweight Microframework for data transfer/integrations"
+description = "Library for data transfer/integrations"
 readme = "README.md"
 license = {file = "LICENSE"}
 keywords = ["nimlotherion", "db"]

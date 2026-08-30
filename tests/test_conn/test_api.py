@@ -12,7 +12,7 @@ class TestApi(unittest.TestCase):
     def test_api(self):
 
 
-        config = sl.config('yaml', 'C:\\Users\\awa\\work_desk\\projects\\sislib\\tests\\_test_utility_files\\test_config.yaml')
+        config = sl.config('yaml', 'C:\\Users\\awa\\work_desk\\projects\\nimlotherion\\tests\\_test_utility_files\\test_config.yaml')
 
         cfg = config['rest_evo']
 

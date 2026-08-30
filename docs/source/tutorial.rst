@@ -19,9 +19,9 @@ importing the modules.
 Tutorial 1: Basic
 *****************
 
-.. _Siswork-Build-Label:
+.. _nimlotherion-Build-Label:
 
-Siswork-Build
+nimlotherion-Build
 =============
 
 To create a new project with standard directories and files, 
@@ -30,7 +30,7 @@ you need to enter the following code into the command line:
 .. code-block:: bash
     :caption: Unix
 
-    siswork-build <project_name>
+    nimlotherion-build <project_name>
 
 
 After a few prompts, it will create a directory with the *project_name* 
@@ -78,7 +78,7 @@ directories are described here :ref:`Tutorial-1-Basic-Label`.
 It should be noted that the source code is, and should be, 
 only in the *project_name* directory.
 
-After creating your project's directory using :ref:`Siswork-Build-Label`, 
+After creating your project's directory using :ref:`nimlotherion-Build-Label`,
 you can also create your project's own environment 
 (:ref:`Virtual-Environments-Label`). However, I will not 
 be using our own environment in this tutorial.

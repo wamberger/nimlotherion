@@ -154,7 +154,7 @@ which you can define in config.yaml file:
       log_global_level: INFO
 
 
-In */log* directory are four different log files, each one for one log level. This files will be made there by default with *siswork* framework.
+In */log* directory are four different log files, each one for one log level. This files will be made there by default with *nimlotherion* framework.
 But you can change the names and location of files in config.yaml file.
 
 .. code-block:: yaml
@@ -261,7 +261,7 @@ You can add multiple SMTP and individual name
 Individual Configuration
 ========================
 
-By default the *siswork* framework only needs the configuration mention above. 
+By default the *nimlotherion* framework only needs the configuration mention above.
 But if you need to add new configurations for your program in config.yaml, 
 then those will be available in the code under *config* object.
 

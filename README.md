@@ -11,25 +11,28 @@
 ---
 
 ⚠️ Unmaintained
+
 This project was last updated in 2024. 
-It is no longer actively maintained, and no further updates or 
-bug fixes will be provided. Use at your own risk.
+It is no longer actively maintained, and no further updates or bug fixes are 
+guaranteed. 
+Some known errors exist; occasional corrections may be applied when feasible. 
+Use at your own risk.
 
 ### Overview
 
-The Nimlotherion is a microframework for creating software which transfers data 
+The Nimlotherion is a library for creating software which transfers data 
 from one source to another where ETL (Extract, transform, load), synchronization, 
-replication or migration process is used. Therefore is the framework suitable for 
+replication or migration process is used. Therefore is the software suitable for 
 small or big backgroud processes or tasks and needs to be, 
 but not necessarily, integrated into another GUI software.
 
-The framework has an option to extract data using web-API, database or flat file
+The library has an option to extract data using web-API, database or flat file
 like *.csv*. The loading can be done using any database, usually 
 operational database, or a web-API. The transformation process like 
 formatting, mapping, cleaning, joining or aggregating of data are the 
-core functions of the microframework. 
+core functions of the library. 
 
-One of the main advantages of the framework is that there are many functions 
+One of the main advantages of the software is that there are many functions 
 available where the date and time is calculating.
 
 ### Documentation

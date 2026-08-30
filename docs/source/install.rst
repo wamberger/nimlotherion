@@ -32,7 +32,7 @@ If you don't have it installed, install the latest version.
 Dependencies
 ============
 
-These distributions will be installed automatically when installing Siswork:
+These distributions will be installed automatically when installing nimlotherion:
 
 * `chardet`_ is character encoding auto-detection in Python.
 * `PyYaml`_ is a *.yaml* parser and emitter for Python.
@@ -48,7 +48,7 @@ Optional distributions if *create_models.py* will be used:
 
 * `alchemyrohan`_ is an extension package for SqlAlchemy which automatically creates the database models according to the database schema.
 
-More about it in :ref:`Siswork-Build-Label`.
+More about it in :ref:`nimlotherion-Build-Label`.
 
 .. _alchemyrohan: https://github.com/wamberger/alchemyrohan
 
@@ -97,25 +97,25 @@ In order to leave the environment you enter in command like *deactivate*.
    <br />
 
 
-Install Siswork
+Install nimlotherion
 ===============
  
-Thus you need to download the `siswork`_ file and you enter this command in terminal:
+Thus you need to download the `nimlotherion`_ file and you enter this command in terminal:
 
-.. _siswork: http://evo-git/py/siswork/blob/master/dist/
+.. _nimlotherion: http://evo-git/py/nimlotherion/blob/master/dist/
 
 .. code-block:: bash
 
-    pip install ./siswork-0.x.x.tar.gz
+    pip install ./nimlotherion-0.x.x.tar.gz
 
 
-To install Siswork within the activated (:ref:`Virtual-Environments-label`) or 
+To install nimlotherion within the activated (:ref:`Virtual-Environments-label`) or
 in gobal environment you need to give following command:
 
 .. code-block:: bash
     :caption: Unix/Windows
     
-    pip install siswork
+    pip install nimlotherion
 
 .. raw:: html
 

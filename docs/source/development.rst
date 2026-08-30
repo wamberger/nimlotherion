@@ -80,7 +80,7 @@ description about their value or meaning.
 Directories
 ===========
 
-The software has some own and standard folders. The latter came with framework **siswork**.
+The software has some own and standard folders. The latter came with framework **nimlotherion**.
 
 *log/*
 ------
@@ -145,12 +145,12 @@ and initiate all the user-preferences which will be later used.
 
 
     import os
-    import siswork
+    import nimlotherion
 
 
     try:
 
-        SETTINGS = siswork.config.SettingsHolder(
+        SETTINGS = nimlotherion.config.SettingsHolder(
             os.path.dirname(__file__)
             )
 

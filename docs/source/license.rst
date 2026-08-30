@@ -44,9 +44,9 @@ Third-Party Licenses
 
 The following software components are included in this project:
 
-* **siswork** (GNU License)
+* **nimlotherion** (GNU License)
 
-    `siswork on evo-git <http://evo-git/py/siswork>`_
+    `nimlotherion on evo-git <http://evo-git/py/nimlotherion>`_
 
     .. code-block::
 

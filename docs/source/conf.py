@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Siswork'
+project = 'nimlotherion'
 copyright = '2023, Alan Wamberger'
 author = 'Alan Wamberger'
 release = '0.1.0'

@@ -95,7 +95,7 @@ class TestCli(unittest.TestCase):
 
     def test_config_file(self):
 
-            path = 'C:\\Users\\awa\\work_desk\\projects\\siswork\\tests\\_test_utility_files\\test_config.yaml'
+            path = 'C:\\Users\\awa\\work_desk\\projects\\nimlotherion\\tests\\_test_utility_files\\test_config.yaml'
             result = CliConfig('yaml', path)
 
             a = result['db']

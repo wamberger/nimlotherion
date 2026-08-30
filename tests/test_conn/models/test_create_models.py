@@ -15,7 +15,7 @@ table_names = [
     ]
 
 #db_creds = f"oracle+cx_oracle://bde:sisbde@tasmania:1521/entw"
-db_creds = f"sqlite:///C:/Users/awa/work_desk/projects/siswork/tests/test_conn/test_sqlite.db"
+db_creds = f"sqlite:///C:/Users/awa/work_desk/projects/nimlotherion/tests/test_conn/test_sqlite.db"
 
 ########################
 # Adapt the code above #

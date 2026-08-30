@@ -14,7 +14,7 @@ Authentication and Authorization
 The *data_importer* use framework for any connections or logins. 
 The credentials are saved in the *config.yaml* file.
 
-How framework works, read the documentation about **siswork**.
+How framework works, read the documentation about **nimlotherion**.
 
 .. raw:: html
 
