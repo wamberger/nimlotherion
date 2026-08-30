@@ -1,0 +1,48 @@
+
+
+locale:
+    lc_all: ''
+    lc_time: ''
+    lc_numeric: ''
+
+
+log:
+    level: warning  # info, warning, error, critical
+    info: info.log
+    warning: warning.log
+    error: error.log
+    critical: critical.log
+
+
+db:
+    my_db: oracle+oracledb://bde:sisbde@tasmania:1521/entw
+    example_name:
+
+
+rest_evo:
+        domain: http://tasmania.sisworld.local:8080
+        path_l: /evoApps/pages/j_spring_security_check
+        path_p_persst: /evoApps/json/persst
+        path_g_persst: /evoApps/json/persst/iss
+        headers_l:
+            sisAppName: timeline
+            Content-Type: application/x-www-form-urlencoded
+            Cache-Control: no-cache
+        headers_p:
+            sisAppName: timeline
+            Content-Type: application/json
+            Cache-Control: no-cache
+        user: trawa
+        password: trawa
+
+
+smtp:
+    example_name:
+        smtp_server:
+        smtp_port:
+        smtp_user:
+        smtp_password:
+        smtp_start_TLS:
+
+
+version:

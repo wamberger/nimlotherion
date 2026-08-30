@@ -1,0 +1,9 @@
+
+
+requests
+chardet
+concurrent-log-handler
+cryptography
+PyYaml
+SQLAlchemy
+toml
